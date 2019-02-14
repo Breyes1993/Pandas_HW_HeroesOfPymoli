@@ -1,0 +1,6 @@
+		Pandas Homework: Heroes of Pymoli
+			3 observable trends
+
+1.	Female players on average spend 5% more than male players.
+2.	Players within the age group of 35-39 spend the most on average.
+3.	The “Oath Breaker, Last Hope of the Breaking Storm” is the most popular and profitable item. 
